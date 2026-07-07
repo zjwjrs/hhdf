@@ -1,0 +1,6 @@
+{
+  "name": "陈静琳的每日体重记录",
+  "description": "一款专为陈静琳设计的每日体重记录与分析应用，支持日历宫格总览、体重变化趋势分析、BMI计算、目标体重进度跟踪以及一键下载Android Studio (Jetpack Compose) 完整工程源码ZIP。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
